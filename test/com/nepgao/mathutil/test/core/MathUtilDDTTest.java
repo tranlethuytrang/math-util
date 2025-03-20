@@ -27,7 +27,7 @@ public class MathUtilDDTTest {
             {2,2},
             {3,6},
             {4,24},
-            {5,720},
+            {5,120},
      };
 }
  // giả sử đã loop qua từng dòng của mảng, ta vẫn cần gán từng value của cột  
